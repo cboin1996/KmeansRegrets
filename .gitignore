@@ -6,3 +6,5 @@ venv
 out_kmeans
 out_clustering
 out_regression
+
+broken.py
